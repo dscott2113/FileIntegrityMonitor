@@ -1,0 +1,1 @@
+This project I called FIM, which stands for File Integrity Monitoring. The goal of this project was to develop a python script that would hash a file or folder so you could check if a file had changed or modified. I made a more detailed write up on this project at https://medium.com/@dscott2113/file-integrity-monitor-python-script-ec0330cd42f6.
